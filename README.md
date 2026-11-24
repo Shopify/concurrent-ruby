@@ -1,3 +1,5 @@
+[Deprecated]: This repository is no longer maintained. It has been archived and receives no updates or security fixes.
+
 # Concurrent Ruby
 
 [![Gem Version](https://badge.fury.io/rb/concurrent-ruby.svg)](http://badge.fury.io/rb/concurrent-ruby)
